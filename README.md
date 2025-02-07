@@ -1,1 +1,1 @@
-https://github.com/genyus00/failure/
+https://genyus00.github.io/failure/
